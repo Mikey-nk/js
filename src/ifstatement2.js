@@ -1,6 +1,6 @@
-let grades = 16;
+let grades = 12;
 
-if (grades > 12){
+if (grades >= 12){
   console.log("you got an A!");
 } else if (grades > 9){
   console.log("you got a B!");
@@ -11,7 +11,7 @@ if (grades > 12){
 } else {
   console.log("you got an F!");
 }
-if (grades > 12 || grades < 0){
-  console.log("INVALID");
+  if (grades > 12 || grades < 0){
+    console.log("INVALID");
 }
 
