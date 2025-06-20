@@ -34,4 +34,3 @@ for (let i = 0; i < my_array.length; i++) {
   }
 }
 
-const mnumbers
